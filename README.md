@@ -4,8 +4,8 @@
 
     
 | Analytical Metrics                     | Language Metrics                       |
-|----------------------------------------|----------------------------------------|
-| <img src="/half_cal.svg" width="70%"/> | <img src="/lang_metrics.svg" width="60%"/> |
+|:--------------------------------------:|:--------------------------------------:|
+| <img src="/half_cal.svg" width="90%"/> | <img src="/lang_metrics.svg" width="90%"/> |
 
     
 </div>
