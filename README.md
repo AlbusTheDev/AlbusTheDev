@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-    <img src="/half_cal.svg" width="100%"/>
+    <img src="/half_cal.svg" width="60%"/>
 </div>
 
 <!--
