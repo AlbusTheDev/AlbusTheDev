@@ -1,6 +1,13 @@
-### Hi there 👋
 <div align="center">
-    <img src="/half_cal.svg" width="60%"/>
+
+### Hi there, Its Qusai👋
+
+    
+| Analytical Metrics                     | Language Metrics                       |
+|----------------------------------------|----------------------------------------|
+| <img src="/half_cal.svg" width="70%"/> | <img src="/lang.svg" width="60%"/> |
+
+    
 </div>
 
 <!--
