@@ -197,17 +197,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 268kb of code in 284 edited files across 67 commits</small>
+                <small>estimation from 272kb of code in 301 edited files across 73 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="339.69539737712626" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="339.69539737712626" y="0" width="99.81999227578795" height="8" fill="#ffa500"/>
-                    <rect mask="url(#languages-bar)" x="439.5153896529142" y="0" width="10.73665474451329" height="8" fill="#ffff00"/>
-                    <rect mask="url(#languages-bar)" x="450.2520443974275" y="0" width="7.291656171813342" height="8" fill="#008000"/>
-                    <rect mask="url(#languages-bar)" x="457.5437005692408" y="0" width="2.4562994307591555" height="8" fill="#0000ff"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="317.4908189208701" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="317.4908189208701" y="0" width="123.36357073354468" height="8" fill="#ffa500"/>
+                    <rect mask="url(#languages-bar)" x="440.8543896544148" y="0" width="10.034841018236605" height="8" fill="#ffff00"/>
+                    <rect mask="url(#languages-bar)" x="450.8892306726514" y="0" width="6.815028720298817" height="8" fill="#008000"/>
+                    <rect mask="url(#languages-bar)" x="457.70425939295023" y="0" width="2.2957406070498134" height="8" fill="#0000ff"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -257,8 +257,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>456 lines</div>
-                                <div>12.9 kB</div>
+                                <div>581 lines</div>
+                                <div>17 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -278,7 +278,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Feb 2024, 23:14:15 (timezone Asia/Amman) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Feb 2024, 23:14:34 (timezone Asia/Amman) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
